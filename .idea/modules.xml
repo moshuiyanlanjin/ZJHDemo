@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ZJHDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/ZJHDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ZJHDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ZJHDemo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ZJHDemo.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ZJHDemo.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ZJHDemo.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ZJHDemo.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ZJHDemo.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ZJHDemo.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arouter_annotation/ZJHDemo.arouter_annotation.iml" filepath="$PROJECT_DIR$/.idea/modules/arouter_annotation/ZJHDemo.arouter_annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arouter_annotation/ZJHDemo.arouter_annotation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/arouter_annotation/ZJHDemo.arouter_annotation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arouter_annotation/ZJHDemo.arouter_annotation.test.iml" filepath="$PROJECT_DIR$/.idea/modules/arouter_annotation/ZJHDemo.arouter_annotation.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arouter_api/ZJHDemo.arouter_api.iml" filepath="$PROJECT_DIR$/.idea/modules/arouter_api/ZJHDemo.arouter_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arouter_api/ZJHDemo.arouter_api.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/arouter_api/ZJHDemo.arouter_api.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arouter_api/ZJHDemo.arouter_api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/arouter_api/ZJHDemo.arouter_api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arouter_api/ZJHDemo.arouter_api.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/arouter_api/ZJHDemo.arouter_api.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arouter_compiler/ZJHDemo.arouter_compiler.iml" filepath="$PROJECT_DIR$/.idea/modules/arouter_compiler/ZJHDemo.arouter_compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arouter_compiler/ZJHDemo.arouter_compiler.main.iml" filepath="$PROJECT_DIR$/.idea/modules/arouter_compiler/ZJHDemo.arouter_compiler.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arouter_compiler/ZJHDemo.arouter_compiler.test.iml" filepath="$PROJECT_DIR$/.idea/modules/arouter_compiler/ZJHDemo.arouter_compiler.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/ZJHDemo.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/ZJHDemo.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/ZJHDemo.common.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/common/ZJHDemo.common.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/ZJHDemo.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/ZJHDemo.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/ZJHDemo.common.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/common/ZJHDemo.common.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order/ZJHDemo.order.iml" filepath="$PROJECT_DIR$/.idea/modules/order/ZJHDemo.order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order/ZJHDemo.order.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/order/ZJHDemo.order.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order/ZJHDemo.order.main.iml" filepath="$PROJECT_DIR$/.idea/modules/order/ZJHDemo.order.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order/ZJHDemo.order.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/order/ZJHDemo.order.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal/ZJHDemo.personal.iml" filepath="$PROJECT_DIR$/.idea/modules/personal/ZJHDemo.personal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal/ZJHDemo.personal.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/personal/ZJHDemo.personal.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal/ZJHDemo.personal.main.iml" filepath="$PROJECT_DIR$/.idea/modules/personal/ZJHDemo.personal.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal/ZJHDemo.personal.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/personal/ZJHDemo.personal.unitTest.iml" />
+    </modules>
+  </component>
+</project>
